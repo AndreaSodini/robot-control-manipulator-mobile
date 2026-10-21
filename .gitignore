@@ -1,0 +1,8 @@
+*.asv
+*.slxc
+slprj/
+*.autosave
+*.mex*
+.DS_Store
+desktop.ini
+Thumbs.db
